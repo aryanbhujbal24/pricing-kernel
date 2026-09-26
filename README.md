@@ -3,10 +3,6 @@
 Estimating $dQ/dP$ from market data, and checking whether it behaves the way
 theory says it should.
 
-> **Repository status:** the paper (`doc/paper.tex`, `doc/paper.pdf`), its
-> figures and the five numbered `scripts/` are here. The `pk/` package the
-> scripts import is being added next.
-
 ## Status
 
 | Part | Content | State |
